@@ -9,4 +9,10 @@
 
 h2{
     background-color: blue;
+    text-align: center;
+}
+
+video{
+    width: 890px;
+    height: 500px;
 }
