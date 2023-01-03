@@ -13,6 +13,14 @@ h2{
 }
 
 video{
-    width: 890px;
-    height: 500px;
+    width: 560px;
+    height: 315px;
 }
+
+.titulo
+{
+   text-align: center;
+   font-size: 25px;
+   font-style: italic;
+}
+
