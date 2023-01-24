@@ -1,26 +1,68 @@
-.top0{
-    text-align: center;
-    font-size: 200%; 
+@charset "UTF-8";
+
+main{
+    border-radius: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  #263239;
+    width: 600px; /*se eu tirar isto vai bugar o alinhamento do meu site */
+    padding: 10%;
+    margin: auto;
+    box-shadow: 15px 15px 15px  rgb(34, 34, 34)
 }
 
-.top0{
-    background-color: red;
+body{
+    background-color:
+    #13191B;
 }
+
+h1{
+
+    font-size: 200%; 
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+}
+
 
 h2{
-    background-color: blue;
-    text-align: center;
-}
-
-video{
-    width: 560px;
-    height: 315px;
-}
-
-.titulo
-{
+    font-size: 150%;
+   color: #FFFFFF;
    text-align: center;
-   font-size: 25px;
-   font-style: italic;
+   text-shadow: 10px 10px 10px black;
 }
+
+
+p{
+    
+    color: rgb(81, 105, 115);
+    text-align: justify;
+}
+
+li{
+    color: rgb(81, 105, 115);
+}
+
+img{
+    width: 100%;
+   max-width: 750px;
+   
+    
+}
+.ytpag2{
+    
+    object-position: center;
+    object-fit: fill;
+}
+
+.backpag2{
+    
+    text-align: center;
+    font-size: 200px;
+    object-fit: fill;
+
+}
+
+
+
+
 
