@@ -5,7 +5,7 @@ main{
     font-family: Arial, Helvetica, sans-serif;
     background-color:  #263239;
     width: 600px; /*se eu tirar isto vai bugar o alinhamento do meu site */
-    padding: 10%;
+    padding: 10% ;
     margin: auto;
     box-shadow: 15px 15px 15px  rgb(34, 34, 34)
 }
@@ -51,18 +51,20 @@ img{
 .ytpag2{
     
     object-position: center;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
     object-fit: fill;
-}
-
-.backpag2{
     
-    text-align: center;
-    font-size: 200px;
-    object-fit: fill;
-
+    
 }
 
 
+.link{
+    color: #FFFFFF;
+    text-decoration: none;
+    border: #13191B;
+
+}
 
 
 
